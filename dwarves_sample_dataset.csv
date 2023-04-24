@@ -1,0 +1,198 @@
+instruction,input,output
+What is Dwarves Foundation?,,"Dwarves Foundation is an agile team of craftsmen that has worked with companies of various sizes since 2013 to build world-class quality products and lead the road to success. They cover areas that are usually hard to get right - from design, branding, development, consulting and offshore. They have a cultivated engineering culture that focuses on building quality products and take care of the whole product cycle so you can truly focus on the business. They offer services such as ideation, design thinking, development, offshore development, user research, experience design, digital product design, consulting and managed services. They have expertise in Elixir, Node.js, React, TypeScript, Docker, Kubernetes, GCP/AWS, Swift, React Native, Blockchain and Hyperledger."
+Who is the current software design group lead at Dwarves?,,Hoang Nguyen is the software design group lead at Dwarves.
+What is Dwarves Foundation's manifesto?,,"Dwarves Foundation’s manifesto is called “The Dwarven Principles”. It is their definition of engineering philosophy, the guiding ideas that shape how they think and work, which helps them ensure the core values and deliver top-grade software. The principles include:
+
+Craftsmanship: Well-crafted software
+Quality pays: Quality is always the top priority
+Mind the Details: Details matter
+The Boring Solution: When in doubt, go with the boring solution
+Think long-term: Good codes and good processes require good brains, thus they want to avoid burnouts
+Applications Need Solid Foundations: Much similar to building a house, software products rely on a solid foundation
+Nothing is permanent: Software moves fast"
+What is Dwarves Foundation's engineering drive?,,"Dwarves Foundation’s engineering drive is to build a company where software engineering could shine, innovative products are shipped and change the world for the better."
+What is programming languages do engineers use at Dwarves Foundation?,,"They apply cutting-edge technology that matters such as Go, Elixir, Swift, Flutter, ReactJS and TypeScript. They also have a Tech Radar that assesses and adopts new technology."
+What is a Tech Radar at Dwarves Foundation?,,"Inspired by Thoughtworks, the radar is how Dwarves assess and adopt new technology. We pick out promising tech from the industry, then put it through an assessment process before deciding whether or not to adopt it."
+"How much ICY did Dwarves Foundation give out at week 14, 2023?",,Dwarves have given out a total of 144 ICY on week 14 of 2023.
+"How much ICY did Dwarves Foundation give out at week 15, 2023?",,Dwarves have given out a total of 33 ICY on week 14 of 2023.
+What articles have Dwarves Foundation posted to Hashnode and their blogs?,,"So far, they have posts on: Lessons learned from concurrency practices in blockchain projects, Cost of React Native, What is PNPM?, Unit testing best practices in Golang, Database Designs for Multilingual Apps, Continuous Translation, I18n Frontend guideline, Accelerate Project Initiation with Advanced NextJS-Boilerplate & React-Toolkit, A Case Study Interview into Micro-Frontends: Building Design System for E-commerce Platform, Case study: How blue-green deployment helped Mochi, Micro-Frontend - What & Why?, From Multi-Repo to Monorepo: A Case Study with NgheNhan Turbo Monorepo, Why We Chose Our Tech Stack: Accelerating Development with a Robust Frontend Solution, Optimizing queries for Big Database, Common challenges - Feature Flag."
+Where is Dwarves Foundation's brainery located at?,,It is hosted at https://brain.d.foundation/. You can view their latest notes at brain.d.foundation/Latest+Notes.
+What is the delivery leaderboard at Dwarves Foundation?,,"A leaderboard to celebrate top performers at Dwarves as well as some project team delivery highlights, updated every week."
+How many minigames have Dwarves Foundation hosted so far?,,About 33 minigames as of time of writing. The latest minigame featured a voucher ticket for purchases at the Decathalon.
+Where can I find Dwarves Foundation's handbook?,,They host their handbook on their GitHub at https://github.com/dwarvesf/handbook.
+Why did Dwarves Foundation create their handbook?,,"Before 2019, they didn’t have a handbook. In those first five years, when a new person joined the company, they were expected to figure things out for themselves. However, when they grew from a company of 10, 20 employees to a company of over 40, our “introduction by immersion” style stopped working. New hires felt lost and isolated, and their first weeks or even months on the job were stressful because of it. There’s as much to unlearn as there is to learn. Prior to this handbook, navigating that path was both somewhat random and almost entirely oral."
+What is Dwarves Foundation's Agile Minifesto?,,"The Dwarves Foundation’s Agile Minifesto is a set of guiding principles that help them develop software in a better way. It is inspired by the Agile Manifesto1. The Agile Minifesto consists of several principles, including “Running Lean,” “Deliver as fast as possible,” “Aim for simplicity,” and “Fail fast, learn often.”
+- Running lean - Lean philosophy regards everything not adding values to the customer as waste. In order to eliminate waste, one should be able to recognize it. Partially done work, extra processes like paperwork and features not often used by customers are waste. Rework or unnecessarily complex solutions are waste. Waiting for other activities, teams, processes is waste. Managerial overhead not producing real values is waste.
+- Deliver as fast as possible - Make it work. Perfect is an enemy of good. Look for perfection, but not yet. First do it, then do it right, then do it better. Any sufficiently complex system cannot be built out of design, it has to be evolved. The shorter the iterations, the better the learning and communication within the team. The sooner the end product is delivered without major defects, the sooner feedback can be received, and incorporated into the next iteration.
+- Aim for simplicity - Simplicity is complicated. Simple is harder than complex. We have to write code for humans not machines. We want readability. Readable means Reliable. It's easier to understand. It's easier to work on. If it breaks, it's easier to fix."
+What is Dwarves Foundation's community all hands?,,"An event hosted every end of the month on Friday, at a Discord stage where we talk about our company progress along with notable news and wins across the month. After every community all hands, we host a company dinner where everyone working at Dwarves are invited."
+What clubs are there at Dwarves Foundation?,,"Dwarves currently have 4 clubs running at the moment:
+- Board game club - a club to play board games together. It can be a great way to socialize, meet new people, and have fun while playing games.
+- Running club - a club for people who enjoy running.
+- English club - a club to improve English skills as well as go out at meet new people using English.
+- Software design - a club to share anything directly or indirectly related to software design, to help others investigate what works in the software industry."
+What is WALA at Dwarves Foundation?,,"WALA: to walk around, learn around. A way for Dwarves to take a break from sitting at their computers and to go out and connect with new people and understand other businesses."
+How many WALAs has Dwarves Foundation done so far?,,"Dwarves have done 2 WALAs so far:
+1. WALA #1 was at DZS Media, a notable film production company at District 7 in Ho Chi Minh City.
+2. WALA #2 was at 43 factory, a specialty coffee shop located in Da Nang."
+What is ICY?,,"A Dwarves Network token. They use it to reward the network members. The cryptocurrency token was designed and created by the engineers at Dwarves, to help bridge connections, effort, work, and research between the Dwarves Foundation and the community."
+How do you earn ICY?,,"By participating in server activities at Dwarves hosted on their Discord server
++ Contribute to brainery: https://brain.d.foundation/, i.e., merge a note
++ Create publications on Dwarves' memo, hashnode, and related blogs
++ Giving a talk and participating in events
++ Sharing and discussing topics
++ Inviting new friends
++ Be an ambassador and share about Dwarves
++ Seasonal quests"
+Where do you find quests to earn ICY?,,You can visit the page at https://earn.d.foundation/ hosted by Dwarves Foundation to see the list of open quests and research and development (R&D) topics.
+What is the ACID model?,,"ACID is an acronym that generally describes the necessity for consistency of a transaction in a database. The acronym stands for:
+
+- Atomicity: Each transaction is handled as a unit of work that is either properly carried out or halted. When it is halted, the transaction is reverted to the previous state before the transaction to ensure validity of all data in the database.
+- Consistency: Although self-explanatory with regard to data, any rules, constraints, cascades, and triggers must have valid and consistent data.
+- Isolation: Transactions cannot affect or jeopardize the integrity of other transactions by interacting with them while they are still in progress. This means a majority of transactions that are ACID should run concurrently.
+- Durability: After a commit of a completed transaction, we can be assured that the transaction itself will be persisted in the event of a network partition or a power outage. This does not assume or take in consideration single-upset events."
+What is the BASE model?,,"BASE is an acronym for describing a flexible way to manipulate data. With requirements for NoSQL databases, the BASE model came to be as a less pessimistic approach of the ACID model when handling data. The acronym stands for:
+
+- Basic Availability: The database is available and should work most of the time.
+- Soft-state: Data stores don't have to be completely write-consistent or require mutual consistency between replicas.
+- Eventual consistency: The database is lazily consistent, meaning it ensures data consistency at a later point."
+What is CAP theorem?,,"CAP theorem, or also named Brewer's theorem (from scientist Eric Brewer), states that any distributed data store can provide only two of three guarantees:
+
+- Consistency: Any read operations are up-to-date with the latest write operation, meaning that all clients see the same data at a given point of time.
+- Availability: In a distributed data store, any and all working nodes in the system should return a valid response for any request, without exception.
+- Partition tolerance: This refers to tolerance for an event that causes a network or power disturbance between 2 or more nodes. Tolerance here means that the cluster should continue to work despite drops in communication between nodes."
+What is the cold start problem in serverless architecture?,,"One of the biggest concern against Serverless Function is the problem of cold start. The first cold start happens when the first request comes in after deployment. After that request is handled, the instance stays alive to be reused by the upcoming requests. If the function, then, has not been invoked in a certain amount of time, it will change back to the cold state. In particular, the invocation steps are:
+
+Get the code from persistent storage
+Spin up the container
+Load the package in memory
+Run the function
+The cold start time is around 0.5s to 2s but increases based on the function size (step 1 to 3). When the container is already warm, it jumps right to step 4.
+
+How to resolve it
+
+While keeping the function size small or increasing the memory could partly speed up the load time, the latency is still in complain because > 1s request cannot ensure a good user experience. One way to fix it is to make sure the container is always in ""hot"" state. This can be achieved by running a scheduler to send a request to reset the cycle time of the function."
+What is Conway's law?,,"""Any organization that designs a system will produce a design whose structure is a copy of the organization's communication structure."" - Conway's Law
+
+In reverse words, the way a company or a team is structured will determine how its software structures and works. The law is so important because it reveals a lot of important facets that we might want to examine before building software:
+
+It tells us that we should always start with people first.
+It tells us that we can't change the architecture of a software unless we change the same time how the people working on it are organized.
+It tells us to look at the people to understand why a certain system was developed in a certain way.
+It tells us the two modules developed by two development groups cannot interface with each other unless there are communications between those groups.
+It tells us to not panic if experiencing a large group starts breaking into smaller ones because it's how an organization grows by reducing communication overhead.
+It tells us that organizational hierarchies should change as fast as either the need for internal innovation or external market pressure."
+What is a domain model in Domain Driven Design?,,"In Domain Driven Design, Domain Model is the organized and structured knowledge of the business problem. Represents as a diagram, code examples, or written documentation, and must be accessible and understandable by everyone involved with the project.
+
+Components of Domain Model
+The vocabulary and key concepts of the domain, and the relationships among all of the entities. These are mainly divided into Domain Events, Commands, Aggregates, and Bounded Context:
+
+Domain Events
+A statement in past tense describes the things that happened in a business system that alternates the state of the entity. e.g: Order submitted, Shopping cart updated.
+
+Commands
+A verb in present tense describes the action that triggers the corresponding domain event. It is either user or system actions.
+
+e.g: Add product (Command) -> Shopping cart updated (Domain event)
+Aggregates
+Represented by a minimal cluster of associated objects(domain events, commands, and actors) that we treat as a unit for data change. Each has a boundary and only exposes its root (Aggregate Root) which allows other objects to reference it.
+
+e.g: A team wants to update its member role according to each project: Project, Update member role (Aggregate Root) -> Project's member role updated
+Bounded Context
+A high-level structure consists of categorizations of functionality, represents a circle or square, that groups related entities together. It can bound parts of an aggregate or multiple aggregates.
+
+e.g: In an aggregate for the shopping process, we draw the bounded contexts for Shopping cart, and Offers: Shopping cart (User -> Add product to cart -> Cart updated) -> Offers (Promotiational Offers Identified -> Offers added)"
+What is double-entry accounting?,,"Double-entry accounting states that every financial transaction has equal and opposite effects in at least two different accounts. There are 3 main accounting types associated with this: assets, liabilities, and equity.
+
+Accountants have an accounting equation, and it is used to check whether the bookkeeper has made a mistake if it is ever out of balance. This equation is commonly used in balance sheets/statement of affairs: Assets = Liabilitie + Equity"
+How to tackle complexity in a project?,,"When a team is struggling with implementation of a solution, more often than not the temptation is to put the blame on the framework, or whatever technology that they happen to be using at the time, and then what happens is that they simply just say, we need to switch frameworks, we need to go from X to Y. They failed to embrace the first principle, that they get themselves into problems, they blame the framework and they simply want to pick up the next hottest thing without understanding whey their previous initiative failed.
+
+So whenever you want to tackle complexity, think about simplicity. If you want to change the quality of code that an engineer is writing, first of all, you don't change the way that they code, you change the way that they think and the way that they think about code, as a result, their code will get better."
+What is cognitive load?,,"Cognitive load is a measure of how much mental effort is required for a task. It’s usually thought of as the amount of information you have to process at any given moment. For example, if you’re trying to solve a math problem, you have to hold in mind that 2+2=4, you need to know what 2 and 4 are, and you need to know how to add numbers together. That’s three separate things that your brain needs to remember at the same time."
+What is the difference between Project-Program-Portfolio manager?,,"When working in the Software Development team, especially for those Product team, we might recognize several manager roles: Project Manager - Product Manager, Program Manager, and Portfolio Manager. On the Internet, we can find those definition for them, on this note, it just a short summarize on what I understand after reading from the specific source.
+
+Project Manager - Product Manager
+For this person, we can see that he/she will be the one who is incharge of planning, scheduling, budgeting, execution, and delivery of the product. Basically, they are the one who will run the team based on their leadership skills, technical knowledge, and experiences to direct their members. Also, the most important is, the software is meet with the client's requirements.
+
+Program Manager
+In the Product team, we might have quite a lot of team to work on the different features that are working on the big system. Right now, the Program Manager is the one who is incharge of the work for the team project. Basically, for this role, it's just higher than Project Manager. If the Project Manager is the one who want to make sure the project's goal reach client's requirement, the Program Manager is the one who will decide which team will work on the requirement.
+
+For example: if your product are having about 5 or 6 teams, the Program Manager is assigned to manage the team number 2nd and 3rd. When receiving the request, the Program Manager will think about which team that is he/she is incharged, to work on this request so the team can deliver successfully.
+
+Portfolio Manager
+Can say, this role is the most important than others 2 mention roles above. The reason is: they will be the one who have to prioritize the work for every teams, every programs that they are managing. After that, they will know which program should do the stuffs before providing informations to project team. Basically, can see that they are mostly focusing on the business site to balance the workloads.
+
+The difference between those roles
+Basically, for those 3 roles: Project Manager, Program Manager, and Portfolio Manager are in common of 1 term: Management. The big difference between them is: the responsible for each role that is playing in the Product team to make everything is working correctly and the output is reach with the client's requirements."
+How to run the Backlog Grooming effectively?,,"For one Agile team, Backlog Grooming is one of the most important meeting that we should have. With that meeting, we can be able to understand what is our next plan for the product in the future, what should we do for that plan, discuss about the require works from the Backlog for the future plan, and make sure that those works are ready to bring up during the Spring Planning meeting.
+
+One of the beautiful thing about Backlog Grooming is:
+
+We can make sure the priority of the user stories.
+We can control our backlog jobs better. So, it won't become a black hole.
+But, there are some cases that many teams usually meet is that they usually start the discussion, the backlog check during the Backlog Grooming instead. For this one, it might be taking a lot of time of others as well, not a good practice from my perspective.
+
+How to run the Backlog Grooming effectively?
+Before the date for the Backlog Groomming, Team Lead and Project Manager will sit down together to overview the current works from the team project. After that, we will look up into the Backlog section from the management board to check again with:
+
+The current user stories need to focus on and prioritize it.
+If the works for the requires user stories are already defined from the Backlog.
+After the meeting is done, Project Manager will prepare a document for Backlog Grooming note, in this document, will be contained with:
+
+Bullets of user stories that the team will be working on, likely focusing for the next sprint.
+List out the user stories by priority and then linking the user story ticket along with it.
+Then, this document will be sent out to the team members. So that they can take a look on it to have an overview, an idea for their future works or have any questions as well for the future's works.
+
+Backlog-Grooming-Note-Example
+After everything is done, the team will start the Backlog Grooming as fast as possible since every members are already awared about the document which is provided before the meeting date. And, it also save everyone time as well."
+How does Quality Assurance works in the product team?,,"From one development team, we have quite a lot of different roles like: BackEnd engineers, FrontEnd engineers, Mobile engineers (include Android and iOS), Quality Assurance engineers, etc. For the developer's side, they can keep track on their works based on the Merge Request that they have been created, and also they have something to filter for their searching better when they want to take a look for the things they have already developed.
+
+On the other hands, from the QA's side, every time they finished on their test, they just made a comment for the record on the ticket only. At this point, I can see that when they want to find the testing record again, they will found a little bit struggle to filter it from the Jira's site.
+
+At this point, I will share a way that a previous team at Dwarves is using to record their testing and managing their test as well.
+
+Testing Documentation
+Usually, when a developer finish their ticket for the feature enhancement from Dev environment, they will require an assistant from the QA members to take a look at it before releasing it into other environments like: Staging, Production. At this point, QA members are going to test on that. But instead of comment directly into the ticket that they are testing, they will need to prepare a testing documentation instead, here are the items that will be put into the doc:
+
+- **For Mobile testing document format:**
+  - Reference information(s)
+    - Ticket(s): we will include the ticket that the team is working with on the development and testing.
+    - App version: we will provide the information of the device that we are using for the testing for the ticket in here.
+  - Test report(s)
+    - Testing status - there are 4 common statues: Failed, Passed, N/A, and Haven't.
+    - Test scenario(s): provide test cases for the ticket.
+
+- **For BackEnd/FrontEnd testing:**
+  - Reference information(s)
+    - Ticket(s): we will include the ticket that the team is working with on the development and testing.
+    - Related document(s): we will include the related document to the ticket from this section.
+  - Test report(s)
+    - Testing status - there are 4 common statues: Failed, Passed, N/A, and Haven't.
+    - Test scenario(s): provide test cases for the ticket."
+How to do story point estimation in Agile?,,"From most of the team project, with higher roles like: project manager, product owner, and engineering manager will need to understand the workload of each members from the team, to see what they has been doing so far in the product development. The story point is one of the way to determine that.
+
+So, at this point, story points estimation is one of the important part when defining the works in the future sprint for each members in the team during the Sprint Planning. A good estimation will help product owners optimize for efficiency and impact. How do we do the estimation precisely?
+
+Collaborate with your project manager, product owner
+Usually, before the sprint planning happens, PM/PO will take time to prepare for the tickets are going to do in the future sprint - most of the tickets are captured based on the desired features and fixs for a product from customer's requirements.
+
+Hence, those tickets are in the very common statement since most of the PM/PO does not understand much from the technical site for the implementation. Leading to hard for all of the members to estimate their work.
+
+So, to separate works precisely and more easy to estimate, a team members can give PMs new insight into the level of effort for each work item. Like, can giving PMs a definition of their work for example.
+
+Agile estimation is a team sport
+During the estimation, it should be involving by eveyone members in the team (developers, designers, testers, etc.). Why? Because each of them will have a different perspective on the product and the work required to deliver for the feature.
+
+Estimate smarter, not harder
+Usually, when estimating, we will based on the time that our member need to finish their work. For example: 1-2 points for about 2-4 hours. So when having a big requirement ticket, we should break it into the subtasks or smaller tasks to keep track the work better and easy for the team to estimate also.
+
+Another common method that most of the team using to estimate calls Planning Poker. For this method, it is definitely requires the participant of every members when doing the estimate. It is simple that, after the providing information for the ticket's story, based on the agreement from every team players, we can have a final estimation for the ticket. For more information, can walk through with the provided documentation from Atlassian team from the link below.
+
+## Learn from the past estimates
+After every sprint, we have a meeting calls ""Retrospectives"", each members will giving their opinion about the previous sprint. We will based on to discuss and give the proper solution on the next job for estimating the work better for the team."
+What is team first thinking?,,"Modern-day software development is too complex and fast-paced to rely on individuals to comprehend all information needed to build and evolve software-rich systems, and research by Google on their own teams found that who is on the team matters less than the team dynamics; and that when it comes to measuring performance, teams matter more than individuals. In software development specifically, we must therefore start with the team for effective software delivery. There are multiple aspects to consider and nurture: team size, team lifespan, team relationships, and team cognition."
+What are team topologies?,,"Many organizations experience problems with software delivery because they have an unhelpful model of what software development is really about. An obsession with “feature delivery” ignores human-related and team-related dynamics inherent in modern software development, leading to disengagement from staff, especially when there are high cognitive loads.
+
+The Team Topologies pattern enables teams to address all these points by establishing a team-first approach to software delivery based on four fundamental team types, three patterns of interaction between teams, and ways of turning difficulties in delivery into signals for the self-steering organization."
+What is CSS in JS?,,"CSS-in-JS is a styling technique where Javascript is used to style the component. These are multiple implementations of this concept in the form of libraries such as emotion, styled-component, JSS. They aim to tackle the limitations of CSS, such as lack of dynamic functionality, scoping, and portability."
+What are CSS container queries?,,"The CSS3 property ""container queries"" allows us to style elements based on the size of a container. It is similar to a Media Query, except it evaluates against the size of a container instead of the size of the viewport."
